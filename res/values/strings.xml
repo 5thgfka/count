@@ -5,4 +5,10 @@
     <color name="all_white">#ffffff</color>
     <string name="quit">QUIT</string>
     <string name="history">HISTORY</string>
+    <string name="create">NEW</string>
+    <string name="countname">Count Name</string>
+    <string name="votetype">Type</string>
+    <string name="upload">Upload</string>
+    <string name="btnewok">OK</string>
+    <string name="btnewcancel">Cancel</string>
 </resources>
