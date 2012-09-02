@@ -4,7 +4,8 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.count;
+import com.model.count;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
