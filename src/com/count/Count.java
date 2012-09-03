@@ -1,7 +1,5 @@
 package com.count;
 
-import com.db.DBManager;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.content.Intent;
@@ -30,14 +28,10 @@ public class Count extends Activity {
 	Button btn_viewHistory;
 	Button btn_addNew;
 	
-	private DBManager mgr;
-	
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        
-        mgr = new DBManager(this);
         
         addNewListener = new OnClickListener() {
         	public void onClick(View v) {
@@ -66,6 +60,5 @@ public class Count extends Activity {
     
     protected void onDestroy() {
     	super.onDestroy();
-    	mgr.closeDB();
     }
 }
