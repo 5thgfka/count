@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T14:18:33.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="tNACl_WCEbhq8Ospp2tA" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-18T01:35:18.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="ejD1wYqFTrbhk6g-ZdG7" version="12.4.2" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1351" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -24,14 +24,14 @@
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-59" value="分享用户点击下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-61">
+        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-61" target="Xv_S4PZ5u0gkVG2HwHhl-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="720" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-65" value="异常/过期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Xv_S4PZ5u0gkVG2HwHhl-64">
           <mxGeometry x="-0.05" relative="1" as="geometry">
-            <mxPoint x="50" as="offset"/>
+            <mxPoint x="-80.43" y="-45.29" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-61" target="Xv_S4PZ5u0gkVG2HwHhl-67">
@@ -45,7 +45,7 @@
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-61" value="获取参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="160" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-67">
+        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-67" target="Xv_S4PZ5u0gkVG2HwHhl-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="720" as="targetPoint"/>
           </mxGeometry>
@@ -101,7 +101,7 @@
           <mxGeometry x="320" y="720" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-88" value="结束" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="720" width="120" height="60" as="geometry"/>
+          <mxGeometry x="620" y="720" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-89" target="Xv_S4PZ5u0gkVG2HwHhl-90">
           <mxGeometry relative="1" as="geometry"/>
@@ -137,7 +137,7 @@
           <mxGeometry x="970" y="230" width="160" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-94" value="完成" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="990" y="420" width="120" height="60" as="geometry"/>
+          <mxGeometry x="990" y="560" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-101" target="Xv_S4PZ5u0gkVG2HwHhl-102">
           <mxGeometry relative="1" as="geometry"/>
@@ -150,11 +150,17 @@
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-101" value="大师币充值&lt;br&gt;是否大于100" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="790" y="230" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-102" target="Xv_S4PZ5u0gkVG2HwHhl-94">
+        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-102" target="Xv_S4PZ5u0gkVG2HwHhl-106">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-102" value="返点" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="790" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv_S4PZ5u0gkVG2HwHhl-106" target="Xv_S4PZ5u0gkVG2HwHhl-94">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Xv_S4PZ5u0gkVG2HwHhl-106" value="记录返大师币" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="560" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
